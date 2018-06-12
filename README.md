@@ -32,7 +32,7 @@ The object of the game is to safely guide each frog from the bottom of the scree
 
 ### Installation  
 1. Clone the repository to your local machine with: <br />
-`git clone https://github.com/JoshSander/Rust-Attack-Team.git`
+`git clone https://github.com/mattCarnovale/Rust-Attack-Team.git`
 
 2. Using a command line tool, navigate to the directory used to clone the project.
 
